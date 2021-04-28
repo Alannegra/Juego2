@@ -1,0 +1,20 @@
+com/mygdx/game/Time.java
+ com.mygdx.game.Time
+com/mygdx/game/Assets.java
+ com.mygdx.game.Assets
+com/mygdx/game/Alien.java
+ com.mygdx.game.Alien
+com/mygdx/game/Walk.java
+ com.mygdx.game.Walk
+com/mygdx/game/Background.java
+ com.mygdx.game.Background
+com/mygdx/game/Bullet.java
+ com.mygdx.game.Bullet
+com/mygdx/game/Attack.java
+ com.mygdx.game.Attack
+com/mygdx/game/J1.java
+ com.mygdx.game.J1
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+com/mygdx/game/J2.java
+ com.mygdx.game.J2

@@ -1,0 +1,55 @@
+
+miatlas.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+alien
+  rotate: false
+  xy: 2, 515
+  size: 661, 481
+  orig: 661, 481
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 665, 484
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+cuca
+  rotate: false
+  xy: 194, 168
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+horror_attack
+  rotate: false
+  xy: 194, 234
+  size: 600, 86
+  orig: 600, 86
+  offset: 0, 0
+  index: -1
+horror_idle
+  rotate: false
+  xy: 2, 2
+  size: 960, 160
+  orig: 960, 160
+  offset: 0, 0
+  index: -1
+horror_walk
+  rotate: false
+  xy: 194, 322
+  size: 800, 160
+  orig: 800, 160
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 2, 164
+  size: 190, 349
+  orig: 190, 349
+  offset: 0, 0
+  index: -1
